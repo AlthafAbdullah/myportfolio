@@ -633,6 +633,9 @@ h6 { font-size: 16px; }
 	right: 70px;
 	top: 80px;
 }
+.dizme_tm_hero .skills.other{
+	background-color: #03005b;
+}
 .dizme_tm_hero .skills.figma{
 	background-color: #fff;
 	bottom: 60px;
@@ -2645,6 +2648,7 @@ input[type=number] {
 	.dizme_tm_hero .skills{width: 50px;height: 50px;}
 	.dizme_tm_hero .skills .svg{width: 25px;height: 25px;}
 	.dizme_tm_hero .skills.figma{bottom: 20px;left: 100px;}
+	.dizme_tm_hero .skills.other{top: 50%; }
 	.dizme_tm_hero .skills.photoshop{right: 110px;}
 	.dizme_tm_hero .skills.illustrator{left: -20px;}
 	.dizme_tm_process .icon .brush{max-width: 90px;}
