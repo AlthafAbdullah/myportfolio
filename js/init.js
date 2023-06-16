@@ -12,7 +12,7 @@ jQuery(document).ready(function () {
   dizme_tm_modalbox();
   dizme_tm_nav_bg();
   dizme_tm_trigger_menu();
-  dizme_tm_service_popup();
+  // dizme_tm_service_popup();
   dizme_tm_modalbox_news();
   dizme_tm_modalbox_portfolio();
   progress_by_frenify();
@@ -21,7 +21,7 @@ jQuery(document).ready(function () {
   dizme_tm_portfolio();
   dizme_tm_cursor();
   dizme_tm_imgtosvg();
-  dizme_tm_popup();
+  // dizme_tm_popup();
   dizme_tm_data_images();
   dizme_tm_contact_form();
   dizme_tm_owl_carousel();
